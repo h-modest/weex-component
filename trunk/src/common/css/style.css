@@ -1,0 +1,127 @@
+/**
+  * 公共样式
+  * @author huangxueqian
+  * @version 1.0.0
+*/
+/* 字体  */
+.ts-fs60 { font-size: 60px; }
+.ts-fs36 { font-size: 36px; }
+.ts-fs34 { font-size: 34px; }
+.ts-fs32 { font-size: 32px; }
+.ts-fs30 { font-size: 30px; }
+.ts-fs28 { font-size: 28px; }
+.ts-fs26 { font-size: 26px; }
+.ts-fs24 { font-size: 24px; }
+.ts-fs22 { font-size: 22px; }
+
+/* 颜色  */
+.ts-c333 { color: #333333; }
+.ts-c666 { color: #666666; }
+.ts-c999{ color: #999999; }
+.ts-c000-04 { color: rgba(0,0,0, 0.4); }
+.ts-cccc { color: #CCCCCC; }
+.ts-c3d80fa { color: #3D80FA; }
+.ts-c576B96 { color: #576B96; }
+.ts-cE64340 { color: #E64340; }
+.ts-cfff { color: #ffffff; }
+
+/* 背景颜色 */
+.ts-bg333 { background-color: #333333; }
+.ts-bg666 { background-color: #666666; }
+.ts-bg999 { background-color: #999999; }
+.ts-bg-000-04 { background-color: rgba(0,0,0,0.4); }
+.ts-bgccc { background-color: #CCCCCC; }
+.ts-bg-3D80FA { background-color: #3D80FA; }
+.ts-bg-576B96 { background-color: #576B96; }
+.ts-bg-E64340 { background-color: #E64340; }
+.ts-bg-f9f9f9 { background-color: #F9F9F9; }
+.ts-bgfff { background-color: #ffffff; }
+
+/* 按钮样式 */
+.ts-btn1 { background-color: #3D80FA; color: #ffffff; }
+.ts-btn2 { background-color: #0a6fd5; opacity: 0.2; color: #ffffff; }
+.ts-btn3 { background-color: rgba(61, 128, 250, 0.2); color: #ffffff;}
+.ts-btn4 { background-color: #FFFFFF; border-width: 1px; border-color: #F2F2F2; color: #333333;}
+.ts-btn5 { background-color: #ebebeb; border-width: 1px; border-color: #F2F2F2; color: rgba(51, 51, 51, .5);}
+.ts-btn6 { background-color: #ebebeb; border-width: 1px; border-color: #F2F2F2; color: rgba(51, 51, 51, .5);}
+.ts-btn7 { background-color: #E64340; color: #ffffff; }
+.ts-btn8 { background-color: #c2403d; color: rgba(255,255,255,0.5);}
+.ts-btn9 { background-color: rgba(230, 67, 64, .7);  color: #ffffff; color: rgba(255,255,255,0.5);}
+.ts-btn10 { background-color: #FFFFFF; border-width: 1px; border-color: #F2F2F2; color: #E64340;}
+.ts-btn11 { background-color: #ebebeb; border-width: 1px; border-color: #F2F2F2; color: rgba(230, 67, 64, 0.5);}
+.ts-btn12 { background-color: #ebebeb; border-width: 1px; border-color: #F2F2F2; color: rgba(230, 67, 64, 0.5);}
+
+/* margin样式 */
+.ts-mt30 { margin-top: 30px; }
+.ts-mt40 { margin-top: 40px; }
+.ts-mt50 { margin-top: 50px; }
+.ts-mr10 { margin-right: 10px; }
+.ts-mb10 { margin-bottom: 10px; }
+.ts-mb16 { margin-bottom: 16px; }
+.ts-mb30 { margin-bottom: 30px; }
+.ts-mb40 { margin-bottom: 40px; }
+.ts-mb50 { margin-bottom: 50px; }
+.ts-ml20 { margin-left: 20px; }
+.ts-ml30 { margin-left: 30px; }
+.ts-ml100 { margin-left: 100px; }
+
+/* padding样式 */
+.ts-pt60 { margin-top: 60px; }
+.ts-pr100 { padding-right: 100px; }
+.ts-pl30 { padding-left: 30px; }
+.ts-pl100 { padding-left: 100px; }
+.ts-plr30 { padding-left: 30px; padding-right: 30px; }
+.ts-ptb20 { padding-top: 20px; padding-bottom: 20px; }
+.ts-plr40 { padding-left: 40px; padding-right: 40px; }
+.ts-p30 { padding-left: 30px; padding-right: 30px; padding-top: 30px; padding-bottom: 30px;}
+.ts-p20 { padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom: 20px;}
+
+/*line-height样式 */
+.ts-lh100 { line-height: 100px; }
+
+/* height样式 */
+.ts-h20 { height: 20px; }
+.ts-h80 { height: 80px; }
+.ts-h90 { height: 90px; }
+.ts-h100 { height: 100px; }
+.ts-h140 { height: 140px; }
+.ts-h160 { height: 160px; }
+.ts-h260 { height: 260px; }
+.ts-h400 { height: 400px; }
+.ts-h1334 { height: 1334px; }
+
+/* width样式 */
+.ts-w120 { width: 120px; }
+.ts-w160 { width: 160px; }
+.ts-w560 { width: 560px; }
+.ts-w590 { width: 590px; }
+.ts-w680 { width: 680px; }
+.ts-w750 { width: 750px; }
+
+/* width/height样式 */
+.ts-wh40 { width: 40px; height: 40px; }
+.ts-wh64 { width: 64px; height: 64px; }
+.ts-wh80 { width: 80px; height: 80px; }
+.ts-wh120 { width: 120px; height: 120px; }
+.ts-wh750 { width: 750px; height: 750px; }
+
+/* border样式 */
+.ts-bt1 { border-bottom-color: #f2f2f2; border-bottom-width: 1px; }
+
+/* text样式 */
+.ts-center-text { text-align: center; }
+
+/* font-weight样式 */
+.ts-fw-bold { font-weight: bold; }
+.ts-fw-500 { font-weight: 500; }
+
+/* flex元素 */
+.ts-center-row { align-items: center; }
+.ts-center-column { justify-content: center; }
+.ts-flex-row { flex-direction: row; }
+.ts-column-between { justify-content: space-between; }
+.ts-flex-1 { flex: 1; }
+.ts-center { justify-content: center; align-items: center; }
+
+/* position样式 */
+.ts-abs { position: absolute; }
